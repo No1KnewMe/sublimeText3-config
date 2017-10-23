@@ -1,0 +1,6 @@
+[
+	//唤出自动补全
+	{"keys": ["alt+space"], "command": "auto_complete" },
+	//全局格式化,缩进（适用于html、css、js等）
+	{"keys": ["shift+tab"], "command": "reindent", "args": {"single_line": false} }
+]

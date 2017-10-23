@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	//插件管理
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"ConvertToUTF8",
+		"CSS3",
+		"Emmet",
+		"JavaScript Completions",
+		"jQuery",
+		"JsFormat",
+		"Package Control",
+		"SublimeCodeIntel"
+	]
+}
