@@ -3,10 +3,10 @@
 	"in_process_packages":
 	[
 	],
-	//插件管理
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"ColorPicker",
 		"ConvertToUTF8",
 		"CSS3",
 		"Emmet",

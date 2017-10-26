@@ -1,7 +1,5 @@
 {
-	//设置tab键补全，回车变为正常换行
 	"auto_complete_commit_on_tab": true,
-	//设置字体大小
 	"font_size": 13,
 	"ignored_packages":
 	[
